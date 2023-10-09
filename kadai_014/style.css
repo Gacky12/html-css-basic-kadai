@@ -1,0 +1,42 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+    /* 中央寄せ */
+    text-align: center;
+}
+
+.google-fonts{
+    font-family: 'Bitter', serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#parent div{
+    /* フォントサイズを40pxに設定*/
+    font-size: 20px;
+}
+
+#parent h1 {
+    /* フォントサイズを20pxに設定*/
+    font-size: 200%;
+    /* 文字間 */
+    letter-spacing: 1.2em;
+    /* 影 */
+    text-shadow: 2px 1px 5px blue;
+    /* 実線 */
+    border-bottom: solid rgb(115, 115, 225);
+}
+
+.text-color{
+    /* 文字色をスカイブルーに設定 */
+    color: skyblue;
+}
+
+.text-color2{
+        /* 文字色をピンクに設定 */
+    color: rgb(255, 192, 203)
+}
+
+#basic p{
+    /* 太字 */
+    font-weight: bold;
+}
