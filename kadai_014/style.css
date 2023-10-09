@@ -4,20 +4,14 @@ body{
     text-align: center;
 }
 
-.google-fonts{
-    font-family: 'Bitter', serif;
-    font-family: 'Josefin Sans', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-}
-
-#parent div{
-    /* フォントサイズを40pxに設定*/
+html {
     font-size: 20px;
 }
 
-#parent h1 {
+.h1-fonts{
+    font-family: 'Josefin Sans', sans-serif;
     /* フォントサイズを20pxに設定*/
-    font-size: 200%;
+    font-size: 2em;
     /* 文字間 */
     letter-spacing: 1.2em;
     /* 影 */
